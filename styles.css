@@ -1,6 +1,10 @@
-h1 { /* Alle h1-Elemente stylen */
-    border-bottom: 1px dashed black;
-/* Kleinbuchstaben als kleine Großbuchstaben darstellen */
-    font-variant:small-caps;
-    color:steelblue;
+h1 {
+    border-bottom: 1px dashed rgb(0, 0, 0);
+    color: brown;
+    /*Kleinbuchstaben als kleine Großbuchstaben darstellen*/
+    font-variant: small-caps;
+    color: steelblue;
+}
+.date {     
+    font-weight: bold; color: red;
 }
